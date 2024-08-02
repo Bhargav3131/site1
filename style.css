@@ -20,7 +20,6 @@ div, section, span, ul, li, a, header{
 
 header{
     width: 100%;
-    background-color: #ED6663;
     display: flex;
     justify-content: space-between;
     padding: 20px 50px;

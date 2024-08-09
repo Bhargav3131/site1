@@ -22,7 +22,7 @@ header{
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 20px 50px;
+    padding: 0px 50px;
     align-items: center;
     position: fixed;
     z-index: 999;
@@ -55,7 +55,7 @@ section{
      background-color: #ED6663;
 }
 
-#product{
+#network{
      background-color: #B52B65;
 }
 

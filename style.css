@@ -76,14 +76,10 @@ h1{
 }
 
 h2{
+    text-align: center
     font-size: 40px;
     position: absolute;
     top: 20%;
     left: 50%;
     transform: translate(-50%, -20%);
 }
-
-
-
-
-

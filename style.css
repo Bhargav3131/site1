@@ -75,7 +75,12 @@ h1{
     color: #fff;
 }
 
-
+h2{
+   position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-20%, -50%);
+}
 
 
 

@@ -76,10 +76,11 @@ h1{
 }
 
 h2{
-   position: absolute;
+    font-size: 40px;
+    position: absolute;
     top: 20%;
     left: 50%;
-    transform: translate(-20%, -50%);
+    transform: translate(-50%, -20%);
 }
 
 
